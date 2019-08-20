@@ -1,0 +1,6 @@
+{
+    "require": {
+        "illuminate/database": "^5.8",
+        "symfony/var-dumper": "^4.3"
+    }
+}
